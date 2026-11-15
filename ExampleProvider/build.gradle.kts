@@ -7,7 +7,7 @@ dependencies {
 version = 1
 
 cloudstream {
-    description = "Rexa Azərbaycan AZTV"
+    description = "FIRST AZE TV DEPO"
     authors = listOf("moggedbyrex")
     status = 3
     tvTypes = listOf("Live")
